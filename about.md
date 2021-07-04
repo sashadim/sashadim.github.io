@@ -1,3 +1,9 @@
+---
+layout: default
+title: About
+---
+# About page
+
 Significant experience in the development and implementation of complex
 solutions covering commercial, technological, service and procurement
 issues within important international Companies.
