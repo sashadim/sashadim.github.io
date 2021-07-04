@@ -1,7 +1,3 @@
----
-layout: default
-title: About
----
 # About page
 
 Significant experience in the development and implementation of complex
