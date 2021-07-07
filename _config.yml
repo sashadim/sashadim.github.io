@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 lsi: false
 safe: true
-source: [sashadim.github.io]
+source: [sashadim.github.io/about]
 incremental: false
 highlighter: rouge
 gist:
