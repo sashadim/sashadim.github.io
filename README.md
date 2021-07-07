@@ -1,4 +1,6 @@
-# About page
+About me
+------------------------------------------------------------------------
+-------------------------------
 
 Significant experience in the development and implementation of complex
 solutions covering commercial, technological, service and procurement
@@ -158,4 +160,5 @@ Language Knowledge
 -  English   fluent
 
 -  Russian   working knowledge
+-------------------------------
 -------------------------------
