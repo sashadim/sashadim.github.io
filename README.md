@@ -19,7 +19,7 @@ issues within important international Companies.
 
 Management of international contracts, risk analysis, contract
 negotiation, commercial management of complex projects are the profile's
-key strengths.
+key strengths. Proven track record on public tenders according to European Regulation and Italian laws.
 
 Obtained the executive master's degree in Project Management in early
 2013.
@@ -40,7 +40,7 @@ services, operation and global maintenance of industrial power, thermal
 waste to energy and biomass plants).*
 
 **International Sales and Procurement Director** inside Europower SpA.
-Reported to CEO.
+Reported to CEO. Award of numerous public and private EPC and O&M contracts.
 
 **Responsible for purchasing activities** of Auxiliary Equipment inside
 AC Boilers SpA (former Ansaldo Caldaie SpA). Reported to Procurement
