@@ -1,3 +1,6 @@
+#Alessandro "Sasha" Dimichino
+email: alessandro@dimichino.com
+
 About me
 ------------------------------------------------------------------------
 -------------------------------
