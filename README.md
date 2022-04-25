@@ -4,7 +4,7 @@
 
 email: alessandro@dimichino.com
 
-resume: [DIMICHINO-resume.pdf](https://www.dimichino.com/resume/DIMICHINO-resume.pdf)
+resume: [DIMICHINO-resume.pdf](https://www.dimichino.com/resume/DIMICHINO-Resume.pdf)
 
 linkedin: [alessandrosashadimichino](https://www.linkedin.com/in/alessandrosashadimichino/)
 
