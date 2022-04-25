@@ -1,6 +1,12 @@
 # Alessandro "Sasha" Dimichino
 
+## Contacts
+
 email: alessandro@dimichino.com
+
+resume: [DIMICHINO-resume.pdf](https://www.dimichino.com/resume/DIMICHINO-resume.pdf)
+
+linkedin: [alessandrosashadimichino](https://www.linkedin.com/in/alessandrosashadimichino/)
 
 ## About me
 
