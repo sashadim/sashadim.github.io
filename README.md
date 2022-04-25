@@ -1,22 +1,21 @@
 # Alessandro "Sasha" Dimichino
+
 email: alessandro@dimichino.com
 
-About me
-------------------------------------------------------------------------
--------------------------------
+## About me
 
 Significant experience in the development and implementation of complex
 solutions covering commercial, technological, service and procurement
 issues within important international Companies.
 
--   Within the Telecommunication business in Siemens Group, first as a
+- Within the Telecommunication business in Siemens Group, first as a
     technical-commercial specialist and, lastly, covering managerial and
     executive functions as Director of Proposal and of Service Sales
     departments. Having a worldwide responsibility, most negotiations
     and activities occurred abroad, in particular in EMEA, APAC and
     MERCOSUR countries.
 
--   Within the Oil&Gas - Power generation business in ABB and in
+- Within the Oil&Gas - Power generation business in ABB and in
     Sofinter Group first in the Procurement and, lastly, leading the
     Sales and Procurement Department in Europower.
 
@@ -27,18 +26,16 @@ key strengths. Proven track record on public tenders according to European Regul
 Obtained the executive master's degree in Project Management in early
 2013.
 
-Professional Experience
-------------------------------------------------------------------------
--------------------------------
+## Professional Experience
 
 2009 – present
 **Sofinter SpA group, Gallarate (VA), Italy.** *With more than 500
 headcounts it is a leader in the international energy market, providing
 plants and parts for the production of steam for industrial use (under
-Macchi brand) and for the production of power (***AC Boilers SpA**
+Macchi brand) and for the production of power* (**AC Boilers SpA**
 *designs, manufactures and erects critical and supercritical utility
 boilers), for waste and water treatment (under SWS brand) and in the
-management of industrial plants (***Europower SpA** *provides EPC
+management of industrial plants* (**Europower SpA** *provides EPC
 services, operation and global maintenance of industrial power, thermal
 waste to energy and biomass plants).*
 
@@ -103,14 +100,13 @@ infrastructure and civil works relevant to transmission technology
 **Esselte group, Milan, Italy.** *It is a holding company headquartered
 in Stamford (USA) specialized in office products.*
 
-**Factory Director Assistant**
+**Factory Director Assistant** in Cernusco sul Naviglio (Milan) plant.
 
 1995 - 1996
 **Military service, Granatieri di Sardegna, Orvieto, Italy.**
 
-Education, Professional Qualification and Membership
-------------------------------------------------------------------------
--------------------------------
+## Education, Professional Qualification and Membership
+
 2012
 **IPMA** (International Project Management Association) certification
 
@@ -127,11 +123,11 @@ adopt in Public Tender assigned with the competitive dialogue procedure.
 1997 - 2007
 **Assessment and Courses sponsored by Siemens Corporate:**
 
--   SIEMENS Corporate Management Learning S4 (part time - 16 months)
+- SIEMENS Corporate Management Learning S4 (part time - 16 months)
 
--   SIEMENS Corporate Assessment and High Potential recognition
+- SIEMENS Corporate Assessment and High Potential recognition
 
--   Team building, Conflict management, Marketing, Strategic Selling,
+- Team building, Conflict management, Marketing, Strategic Selling,
     Pricing, Financial accounting and decision making.
 
 1995
@@ -145,24 +141,19 @@ internal detonation.
 **Scientific High School Diploma Liceo Scientifico Machiavelli, Segrate
 (Milan), Italy.**
 
-Computer Knowledge
-------------------------------------------------------------------------
--------------------------------
--   UNIX, OS X, Windows
+## Computer Knowledge
 
--   LaTex and most diffused Office packages
+- UNIX, OS X, Windows
 
--   Data mining tools and techniques (through python, java and R
+- LaTex and most diffused Office packages
+
+- Data mining tools and techniques (through python, java and R
     packages)
 
-Language Knowledge
-------------------------------------------------------------------------
--------------------------------
--  Italian   native
+## Language Knowledge
 
--  English   fluent
+- Italian   native
 
--  Russian   working knowledge
+- English   fluent
 
--------------------------------
--------------------------------
+- Russian   working knowledge
