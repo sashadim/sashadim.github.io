@@ -2,7 +2,7 @@
 
 ## Contacts
 
-email: alessandro@dimichino.com
+email: <alessandro@dimichino.com>
 
 resume: [DIMICHINO-resume.pdf](https://www.dimichino.com/resume/DIMICHINO-Resume.pdf)
 
