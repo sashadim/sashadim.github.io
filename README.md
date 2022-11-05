@@ -1,165 +1,147 @@
-# Alessandro "Sasha" Dimichino
+ALESSANDRO "SASHA" DIMICHINO
 
-## Contacts
+**mail:** alessandro@dimichino.com
 
-email: <alessandro@dimichino.com>
+**LinkedIn:** https://www.linkedin.com/in/alessandrosashadimichino/
 
-resume: [DIMICHINO-resume.pdf](https://www.dimichino.com/resume/DIMICHINO-Resume.pdf)
+**mobile:** +39 335 5432 334
 
-linkedin: [alessandrosashadimichino](https://www.linkedin.com/in/alessandrosashadimichino/)
+**address:** via Archimede 85 - 20129 Milano — Italy
 
-## About me
+**place and date of birth:** Milano (Italy), 03 Sept 1968
 
-Significant experience in the development and implementation of complex
-solutions covering commercial, technological, service and procurement
-issues within important international Companies.
+# **Senior Manager: EPC, O&M**
+Engineer and MPM (Executive Master in Project Management) with more than 25 years of relevant experience in **contract, sales, proposal and procurement in EPC and O&M business** highlighted by rapid advancement and consistent achievement in market and profit growth. Outstanding qualification in building and managing relationship with project and field service management teams.
 
-- Within the Telecommunication business in Siemens Group, first as a
-    technical-commercial specialist and, lastly, covering managerial and
-    executive functions as Director of Proposal and of Service Sales
-    departments. Having a worldwide responsibility, most negotiations
-    and activities occurred abroad, in particular in EMEA, APAC and
-    MERCOSUR countries.
+Deep knowledge and expertise in underwriting and in contract rating. Excellent skills and experience in contract definition, proposal, and bidding management (private and according to public procurement regulations), project management and project execution of power generation, waste to energy plants and telecommunication networks.
 
-- Within the Oil&Gas - Power generation business in ABB and in
-    Sofinter Group first in the Procurement and, lastly, leading the
-    Sales and Procurement Department in Europower.
+**----------------------------------------Areas of Excellence----------------------------------------**
 
-Management of international contracts, risk analysis, contract
-negotiation, commercial management of complex projects are the profile's
-key strengths. Proven track record on public tenders according to European Regulation and Italian laws.
+- Strategic Planning & Leadership
+- Proposal, Sales & Business development
+- Training, Development & Team Building
+- Budgeting, Cost Management, and risk analysis
+- Contracts Negotiation / Commercial Management of complex projects
+- Strategic Partnerships definition
+- Board Relations
+- HRSG, WTE, co-generation plant | TLC
+- EPC and O&M projects
+- Maintenance engineering
+- Public tendering according to EU directives and Italian Public Contracts Code
 
-Obtained the executive master's degree in Project Management in early
-2013.
+# **Career snapshot**
+Considerable experience in the development and implementation of complex solutions covering commercial, technological, service and procurement issues within important international Companies. After a career switch from telecommunication to energy and power generation industry, attended professional regulatory refresher courses and been certified executive master in Project Management at POLIMI Graduate School of Management, the business school of Politecnico di Milano.
 
-## Professional Experience
+1. • Within the Telecommunication business in Siemens Group, first as a technical-commercial specialist and, lastly, covering managerial and executive functions as Director of Proposal and of Service Sales departments. Having a worldwide responsibility, most negotiations and activities occurred abroad, in EMEA, APAC, and MERCOSUR countries.
+1. • Within the Oil&Gas - Power generation business directing the Sales and Procurement Department in Europower. Improved technical and commercial bid preparation, defined strategies, finalized partnerships, negotiated contracts. Optimized performance, price and technical feature to increase the competitiveness in public and private markets.
 
-2009 – present
-**Sofinter SpA group, Gallarate (VA), Italy.** *With more than 500
-headcounts it is a leader in the international energy market, providing
-plants and parts for the production of steam for industrial use (under
-Macchi brand) and for the production of power* (**AC Boilers SpA**
-*designs, manufactures and erects critical and supercritical utility
-boilers), for waste and water treatment (under SWS brand) and in the
-management of industrial plants* (**Europower SpA** *provides EPC
-services, operation and global maintenance of industrial power, thermal
-waste to energy and biomass plants).*
+**Sofinter Group**, 2009 – present
 
-**International Sales and Procurement Director** inside Europower SpA.
-Reported to CEO. Award of numerous public and private EPC and O&M contracts.
+- Sales and Procurement Director – Europower, 2013 – present
 
-**Responsible for purchasing activities** of Auxiliary Equipment inside
-AC Boilers SpA (former Ansaldo Caldaie SpA). Reported to Procurement
-Director.
+**Career transition** from TLC to energy production, 2009 – 2013
 
-2008 - 2009
-**ABB SpA, Sesto San Giovanni (MI), Italy.** *ABB is a leader in power
-and automation technologies. Center of excellence (Headquarter) of
-worldwide EPC projects inside Oil&Gas division, 10 000 headcounts.*
+- Executive Master in Project Management – POLIMI, 2011 – 2013
+- Senior Buyer Turnkey – AC Boilers, 2009 -2012
+- Senior Buyer EPC – ABB, 2009
 
-**Responsible for purchasing activities** of Static Equipment (tanks,
-vessels, filters) and for the definition of service and aftermarket
-contracts with main suppliers. Reported to Supply Chain and Procurement
-Director (vice president).
+**Siemens COM | Nokia Siemens Networks (NSN)**, 1999 – 2008
 
-**Green power consultant Freelance.**
+- Portfolio Management and Global Bid Support – NSN, 2007 – 2008
+- Service Sales Director – Siemens COM, 2006 – 2007
+- Proposal Manager Director – Siemens COM, 2003 - 2005
 
-**Nokia Siemens Networks.** *Telecommunications solutions supplier
-resulting from the merger between Siemens Communications division and
-Nokia Network Business Group in April 2007, 60 000 headcounts.*
+# **Professional Experience**
+**Europower (2013 – present)**
 
-2007 - 2008
-**Responsible for costing and pricing guide lines** inside Network
-Implementation Business Unit (Headquarter Service). Reported to the Head
-of Network Implementation Product Management. Leader of a
-multidisciplinary team of 12 people from different countries and
-divisions of the Company.
+**Sales | Contract Management | Procurement | Public Tenders (EU regulations and IT laws) | Business Development | EPC – Power cogeneration and WTE Plants**
 
-1997 - 2007
-**Siemens COM group.** *The largest division of Siemens,
-telecommunication industry, 40 000 headcounts.*
+Europower Spa, part of Sofinter Group (350-500 M€ annual revenue), sells EPC services, Operation and Maintenance of industrial, power (co-generation plants), thermal, waste to energy and biomass plants.
 
-**Head of Service Sales** inside Microwave Radio Business Unit
-(Headquarter). Director of Microwave Service Sales and Spare Log
-department. Reported to the Head of Service (vice president) of the
-Business Unit and led a team of 9 people located in Milan.
+Jan 2013 – present	**Head of Sales and of Procurement** – Europower Spa | Annual Revenue: 14 - 20M€
 
-acted also as permanent member of the merger team nominated by Nokia and
-Siemens with the scope of process harmonization for day-one readiness.
-Defined processes and roles relevant to Service. One of forty people (20
-Siemens and 20 Nokia).
+Requested by the CEO of Europower and by the management of the parent company Sofinter to turn around a not pursued EPC business with a focus on Italian and European market. Redefined and reorganized the proposal team and increased cooperation and cross selling inside Sofinter Group. Supported Sofinter Group in public tendering according to Italian laws and European regulations.
 
-**Head of Microwave Proposal Manager** department (Headquarter).
-Worldwide responsibility of technical and commercial bid preparation of
-Microwave and transmission tenders. Reported to the Head of Customer
-Solution Center (vice president). Directed a team of 14 people.
+Key achievements:
 
-**Senior Proposal Manager Turn Key Project.** Worldwide technical and
-commercial proposal development of telecommunications systems for fixed
-and mobile operators.
+- Tender Award capture rate grown up to 30% in the first two years w/o staff increase ensuring the continuation and enhancements of services
+- Increased total revenues of 40% in seven years.
+- Balanced target market from 100% O&M in 2013 to 50/50 EPC and O&M in 2020
+- Awarded fourteen new EPC contracts, seven of which with new customers[^1]
+- Awarded ten new Maintenance contracts, three of which pluriannual and three with new customers
+- Awarded and extended two Operation and Maintenance pluriannual contracts with established Clients[^2]
 
-**Microwave Infrastructure Specialist.** Specialization in
-infrastructure and civil works relevant to transmission technology
-(fiber optic and Microwave).
+**AC Boilers (2009 – 2012)**
 
-1996 - 1997
-**Esselte group, Milan, Italy.** *It is a holding company headquartered
-in Stamford (USA) specialized in office products.*
+**Power Plant | Waste to Energy Plant | EPC | Procurement**
 
-**Factory Director Assistant** in Cernusco sul Naviglio (Milan) plant.
+AC Boilers Spa (former Ansaldo Caldaie Spa), part of Sofinter Group, designs, manufactures and erects critical and supercritical utility boilers.
 
-1995 - 1996
-**Military service, Granatieri di Sardegna, Orvieto, Italy.**
+Jan 2009 – Dec 2012	**Specialist in Turnkey Project** (Procurement: Construction Contracts | Auxiliary Equipment) - AC Boilers Spa
 
-## Education, Professional Qualification and Membership
+- Focused on agreement with strategic suppliers, and on handling improvements of bottleneck items. Inspired the redesign of two components and supported the make or buy, cost and contractual risk evaluation.
 
-2012
-**IPMA** (International Project Management Association) certification
+**ABB (2008)**
 
-Nov 2011 -- March 2013
-**Executive Master in Project Management** (2nd level University Master
-degree, executive - 16 months part time) **MIP (Politecnico di Milano -
-Graduate School of Business).** Project Work about bidding strategies to
-adopt in Public Tender assigned with the competitive dialogue procedure.
+**Power Plant | Chemical Plant | EPC | Procurement**
 
-2008
-**Waste to Energy specialization course Comitato Termoelettrico Italiano
-(CTI)**
+ABB Spa at the time was worldwide center of excellence of EPC projects, part of Oil&Gas and Chemical division of ASEA Brown Boveri.
 
-1997 - 2007
-**Assessment and Courses sponsored by Siemens Corporate:**
+Jul 2008 – Dec 2008	**Specialist EPC** (Procurement: Construction Contracts) – ABB Spa
 
-- SIEMENS Corporate Management Learning S4 (part time - 16 months)
+- Integrated and negotiated construction contracts for Congo and Chile projects.
 
-- SIEMENS Corporate Assessment and High Potential recognition
+**Siemens COM (1997 – 2007) – Nokia Siemens Networks (2007-2008)**
 
-- Team building, Conflict management, Marketing, Strategic Selling,
-    Pricing, Financial accounting and decision making.
+**Telecommunications | Proposal | Sales | Service (I&C, Maintenance, Value Added Services) | Pricing**
 
-1995
-**Member of the Association of Professional Engineers of Milan, Italy.**
+At the time, the largest division of Siemens AG, telecommunication industry (former Siemens Spa | Siemens Holding Spa | Siemens Spa | Siemens Information and Communication Netw Spa | Italtel Spa). Nokia Siemens Networks (NSN), Telecommunications solutions supplier resulting from the merger between Siemens COM division and Nokia Network Business Group in April 2007 (former Nokia Siemens Networks | Nokia Solutions Networks | Nokia).
 
-**Master degree in Mechanical Engineering Politecnico di Milano.**
-Thesis about mechanical behavior of spherical vessels subject to
-internal detonation.
+Apr 2007 – Mar 2008	**Product and Portfolio Management and Global Bid Support** - Nokia Siemens Networks Spa
 
-1987
-**Scientific High School Diploma Liceo Scientifico Machiavelli, Segrate
-(Milan), Italy.**
+- Defined costing and pricing guidelines applied by commercial team worldwide for Service budget estimation (Construction and Maintenance).
+- Leading a multidisciplinary team from different countries and divisions of the Company, concluded the harmonization of service worldwide contracts with a special focus on Egypt, Turkey, and South America (Mercosur) area.
 
-## Computer Knowledge
+Jan 2006 – Mar 2007 	**Service Sales Director** and **permanent member of NSN day-one merger team** – Siemens COM
 
-- UNIX, OS X, Windows
+Inside Microwave Radio Business Unit (Headquarter). Director of Microwave Service Sales and Spare Log department.
 
-- LaTex and most diffused Office packages
+- Consolidated the revenues of the MW Service Sales worldwide (165M€ average annual) and increased the internal cooperation with the equipment Sales department.
+- Defined and implemented “swap and repair” and “repair and return” services for Siemens and -for the first time in Siemens at the time- in multi-vendor environment (contract later signed by NSN).
 
-- Data mining tools and techniques (through python, java and R
-    packages)
+From July 2006 permanent member of the qualified **merger team** nominated by Nokia and Siemens to harmonize process and organization **for day-one readiness** of the joint venture between Nokia of Finland and Siemens of Germany known as Nokia Siemens Networks.
 
-## Language Knowledge
+- Reviewed service contracts of main common player one year before the JV effectiveness.
+- Supported processes and roles definition inside Service BU
 
-- Italian   native
+Feb 1997 – Dec 2005 	**Proposal Manager Director (2003-2005) | Proposal Manager TK project (1997 – 2005)** – Siemens COM | Microwave Radio Business Unit: 650M€ average annual revenue
 
-- English   fluent
+Promoted to Proposal Manager Director through a series of increasingly responsible and leadership positions within Siemens COM.
 
-- Russian   working knowledge
+- In cooperation with the Sales Director, increased the commercial and bidding understanding of the proposal and of commercial teams, managed the bidding with a simplified risk management approach.
+- Increased capture rate of the headquarter team from 20 to 43% in the first two years, without staff increase.
+
+**Others (1995 – 1997)**
+
+**Manufacturing | Planning**
+
+Apr 1995 – Jan 1997	earlier experience includes entry level positions with **Esselte Group** (1996 – 1997) and **Italian Army** (1995 - 1996)
+# **Education, Professional Memberships, and other accomplishments**
+***EDUCATION***	Post graduate **Executive 2nd Level University Master in Project Management** - POLIMI Graduate School of Management - Politecnico di Milano – 2013
+
+**Master of Science in Mechanical Engineering** - Politecnico di Milano - 1995
+
+**Waste to Energy** seminaries. WTE specialization course - Comitato Termoelettrico Italiano (CTI) - 2008
+
+16 months SIEMENS **Corporate Management Learning S4** – Siemens University - 2005
+
+***AFFILIATIONS***	Member of the **CNI** (National Council of Italian Engineers)
+
+**IPMA** (International Project Management Association)
+
+***LANGUAGES*	Italian** native | **English** fluent | **Russian** beginner
+
+[^1]: including BEA, Heratech TS group Hera, Istituto Poligrafico e Zecca dello Stato, IES – MOL Group, Veritas Venezia
+[^2]: ACCAM, European Commission’s Joint Research Centre – Ispra
+
+` `authorize Imy personal data processing and communication pursuant to GDPR 679/16 - "European regulation on the protection of personal data"  					0
