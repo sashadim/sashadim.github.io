@@ -32,8 +32,8 @@ Deep knowledge and expertise in underwriting and in contract rating. Excellent s
 # **Career snapshot**
 Considerable experience in the development and implementation of complex solutions covering commercial, technological, service and procurement issues within important international Companies. After a career switch from telecommunication to energy and power generation industry, attended professional regulatory refresher courses and been certified executive master in Project Management at POLIMI Graduate School of Management, the business school of Politecnico di Milano.
 
-1. • Within the Telecommunication business in Siemens Group, first as a technical-commercial specialist and, lastly, covering managerial and executive functions as Director of Proposal and of Service Sales departments. Having a worldwide responsibility, most negotiations and activities occurred abroad, in EMEA, APAC, and MERCOSUR countries.
-1. • Within the Oil&Gas - Power generation business directing the Sales and Procurement Department in Europower. Improved technical and commercial bid preparation, defined strategies, finalized partnerships, negotiated contracts. Optimized performance, price and technical feature to increase the competitiveness in public and private markets.
+1. Within the Telecommunication business in Siemens Group, first as a technical-commercial specialist and, lastly, covering managerial and executive functions as Director of Proposal and of Service Sales departments. Having a worldwide responsibility, most negotiations and activities occurred abroad, in EMEA, APAC, and MERCOSUR countries.
+1. Within the Oil&Gas - Power generation business directing the Sales and Procurement Department in Europower. Improved technical and commercial bid preparation, defined strategies, finalized partnerships, negotiated contracts. Optimized performance, price and technical feature to increase the competitiveness in public and private markets.
 
 **Sofinter Group**, 2009 – present
 
@@ -52,6 +52,7 @@ Considerable experience in the development and implementation of complex solutio
 - Proposal Manager Director – Siemens COM, 2003 - 2005
 
 # **Professional Experience**
+
 **Europower (2013 – present)**
 
 **Sales | Contract Management | Procurement | Public Tenders (EU regulations and IT laws) | Business Development | EPC – Power cogeneration and WTE Plants**
