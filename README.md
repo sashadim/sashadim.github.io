@@ -32,7 +32,7 @@ Deep knowledge and expertise in underwriting and in contract rating. Excellent s
 
 - Board Relations
 
-- HRSG, WTE, co-generation plant | TLC
+- HRSG, WTE, co-generation plant / TLC
 
 - EPC and O&M projects
 
@@ -72,11 +72,11 @@ Considerable experience in the development and implementation of complex solutio
 
 **Europower (2013 – present)**
 
-**Sales | Contract Management | Procurement | Public Tenders (EU regulations and IT laws) | Business Development | EPC – Power cogeneration and WTE Plants**
+**Sales / Contract Management / Procurement / Public Tenders (EU regulations and IT laws) / Business Development / EPC – Power cogeneration and WTE Plants**
 
 Europower Spa, part of Sofinter Group (350-500 M€ annual revenue), sells EPC services, Operation and Maintenance of industrial, power (co-generation plants), thermal, waste to energy and biomass plants.
 
-Jan 2013 – present	**Head of Sales and of Procurement** – Europower Spa | Annual Revenue: 14 - 20M€
+Jan 2013 – present	**Head of Sales and of Procurement** – Europower Spa / Annual Revenue: 14 - 20M€
 
 Requested by the CEO of Europower and by the management of the parent company Sofinter to turn around a not pursued EPC business with a focus on Italian and European market. Redefined and reorganized the proposal team and increased cooperation and cross selling inside Sofinter Group. Supported Sofinter Group in public tendering according to Italian laws and European regulations.
 
@@ -96,17 +96,17 @@ Key achievements:
 
 **AC Boilers (2009 – 2012)**
 
-**Power Plant | Waste to Energy Plant | EPC | Procurement**
+**Power Plant / Waste to Energy Plant / EPC / Procurement**
 
 AC Boilers Spa (former Ansaldo Caldaie Spa), part of Sofinter Group, designs, manufactures and erects critical and supercritical utility boilers.
 
-Jan 2009 – Dec 2012	**Specialist in Turnkey Project** (Procurement: Construction Contracts | Auxiliary Equipment) - AC Boilers Spa
+Jan 2009 – Dec 2012	**Specialist in Turnkey Project** (Procurement: Construction Contracts / Auxiliary Equipment) - AC Boilers Spa
 
 - Focused on agreement with strategic suppliers, and on handling improvements of bottleneck items. Inspired the redesign of two components and supported the make or buy, cost and contractual risk evaluation.
 
 **ABB (2008)**
 
-**Power Plant | Chemical Plant | EPC | Procurement**
+**Power Plant / Chemical Plant / EPC / Procurement**
 
 ABB Spa at the time was worldwide center of excellence of EPC projects, part of Oil&Gas and Chemical division of ASEA Brown Boveri.
 
@@ -116,9 +116,9 @@ Jul 2008 – Dec 2008	**Specialist EPC** (Procurement: Construction Contracts) �
 
 **Siemens COM (1997 – 2007) – Nokia Siemens Networks (2007-2008)**
 
-**Telecommunications | Proposal | Sales | Service (I&C, Maintenance, Value Added Services) | Pricing**
+**Telecommunications / Proposal / Sales / Service (I&C, Maintenance, Value Added Services) / Pricing**
 
-At the time, the largest division of Siemens AG, telecommunication industry (former Siemens Spa | Siemens Holding Spa | Siemens Spa | Siemens Information and Communication Netw Spa | Italtel Spa). Nokia Siemens Networks (NSN), Telecommunications solutions supplier resulting from the merger between Siemens COM division and Nokia Network Business Group in April 2007 (former Nokia Siemens Networks | Nokia Solutions Networks | Nokia).
+At the time, the largest division of Siemens AG, telecommunication industry (former Siemens Spa / Siemens Holding Spa / Siemens Spa / Siemens Information and Communication Netw Spa | Italtel Spa). Nokia Siemens Networks (NSN), Telecommunications solutions supplier resulting from the merger between Siemens COM division and Nokia Network Business Group in April 2007 (former Nokia Siemens Networks / Nokia Solutions Networks / Nokia).
 
 Apr 2007 – Mar 2008	**Product and Portfolio Management and Global Bid Support** - Nokia Siemens Networks Spa
 
@@ -140,7 +140,7 @@ From July 2006 permanent member of the qualified **merger team** nominated by No
 
 - Supported processes and roles definition inside Service BU
 
-Feb 1997 – Dec 2005 	**Proposal Manager Director (2003-2005) | Proposal Manager TK project (1997 – 2005)** – Siemens COM | Microwave Radio Business Unit: 650M€ average annual revenue
+Feb 1997 – Dec 2005 	**Proposal Manager Director (2003-2005) / Proposal Manager TK project (1997 – 2005)** – Siemens COM / Microwave Radio Business Unit: 650M€ average annual revenue
 
 Promoted to Proposal Manager Director through a series of increasingly responsible and leadership positions within Siemens COM.
 
@@ -168,7 +168,7 @@ Apr 1995 – Jan 1997	earlier experience includes entry level positions with **E
 
 **IPMA** (International Project Management Association)
 
-***LANGUAGES*	Italian** native | **English** fluent | **Russian** beginner
+***LANGUAGES*	Italian** native / **English** fluent / **Russian** beginner
 
 [^1]: including BEA, Heratech TS group Hera, Istituto Poligrafico e Zecca dello Stato, IES – MOL Group, Veritas Venezia
 
