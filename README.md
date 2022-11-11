@@ -60,7 +60,7 @@ Considerable experience in the development and implementation of complex solutio
 
 - Senior Buyer EPC – ABB, 2009
 
-**Siemens COM | Nokia Siemens Networks (NSN)**, 1999 – 2008
+**Siemens COM / Nokia Siemens Networks (NSN)**, 1999 – 2008
 
 - Portfolio Management and Global Bid Support – NSN, 2007 – 2008
 
