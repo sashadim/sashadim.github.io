@@ -144,4 +144,4 @@ Apr 1995 – Jan 1997	earlier experience includes entry level positions with **E
 [^1]: including BEA, Heratech TS group Hera, Istituto Poligrafico e Zecca dello Stato, IES – MOL Group, Veritas Venezia
 [^2]: ACCAM, European Commission’s Joint Research Centre – Ispra
 
-` `authorize Imy personal data processing and communication pursuant to GDPR 679/16 - "European regulation on the protection of personal data"  					0
+"authorize Imy personal data processing and communication pursuant to GDPR 679/16 - "European regulation on the protection of personal data"  					0
